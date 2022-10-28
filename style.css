@@ -64,35 +64,21 @@ section {
     background-image: linear-gradient(tomato, brown);
     color: aliceblue;
     font-weight: 400;
-    padding: 10px;
+    padding: 12px;
     border-radius: 5px;
 
 }
 
+.wrapper-container {
+    width: 33.33%;
 
-#mission {
-    width: 33.3%;
-    background-color: #99cce0;
-    padding: 10px;
-}
-
-#vission {
-    width: 33.3%;
-    background-color: #e99bb9;
-    padding: 10px;
-}
-
-#goals {
-    width: 33.3%;
-    background-color: #42e0a4;
-    padding: 10px;
-    margin-right: 10px;
 }
 
 .third-width {
-    width: 75;
-    width box-sizing: content-box;
-
+    width: 100%;
+    border-radius: 20px;
+    margin: 2%;
+    padding: 50px;
 }
 
 .center-left-banner {
