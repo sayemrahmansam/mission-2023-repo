@@ -44,8 +44,8 @@ h4 {
 
 section {
     display: flex;
-    padding-left: 10px;
-    margin-bottom: 100px;
+    padding-left: 2%;
+    margin-bottom: 10%;
 }
 
 .half-width {
@@ -55,7 +55,7 @@ section {
 }
 
 .half-width img {
-    width: 70%;
+    width: 80%;
 }
 
 
@@ -69,16 +69,21 @@ section {
 
 }
 
-.wrapper-container {
-    width: 33.33%;
-
+.illustrators {
+    padding: 6%;
+    height: 2%;
 }
 
+
 .third-width {
-    width: 100%;
+    width: 33.33%;
     border-radius: 20px;
-    margin: 2%;
+    margin: 1%;
     padding: 50px;
+}
+
+.third-width img {
+    width: 100%;
 }
 
 .center-left-banner {
